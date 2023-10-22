@@ -1,12 +1,102 @@
 [
     {
-        "TakımAdı": "Galatasaray (futbol takımı)|Galatasaray",
-        "KısaKodu": "GAL",
-        "MaçkolikId": "1"
+        "TakımAdı": "Adana Demirspor",
+        "KısaKodu": "ADS",
+        "MaçkolikId": "454"
+    },
+    {
+        "TakımAdı": "MKE Ankaragücü",
+        "KısaKodu": "AGÜ",
+        "MaçkolikId": "9"
+    },
+    {
+        "TakımAdı": "Alanyaspor",
+        "KısaKodu": "ALA",
+        "MaçkolikId": "619"
+    },
+    {
+        "TakımAdı": "Antalyaspor",
+        "KısaKodu": "ANT",
+        "MaçkolikId": "455"
+    },
+    {
+        "TakımAdı": "Beşiktaş",
+        "KısaKodu": "BJK",
+        "MaçkolikId": "3"
+    },
+    {
+        "TakımAdı": "Çaykur Rizespor",
+        "KısaKodu": "ÇYR",
+        "MaçkolikId": "448"
+    },
+    {
+        "TakımAdı": "Fatih Karagümrük",
+        "KısaKodu": "FKG",
+        "MaçkolikId": "537"
     },
     {
         "TakımAdı": "Fenerbahçe (futbol takımı)|Fenerbahçe",
         "KısaKodu": "FNB",
         "MaçkolikId": "2"
+    },
+    {
+        "TakımAdı": "Galatasaray (futbol takımı)|Galatasaray",
+        "KısaKodu": "GAL",
+        "MaçkolikId": "1"
+    },
+    {
+        "TakımAdı": "Gaziantep",
+        "KısaKodu": "GFK",
+        "MaçkolikId": "572"
+    },
+    {
+        "TakımAdı": "Hatayspor",
+        "KısaKodu": "HAT",
+        "MaçkolikId": "574"
+    },
+    {
+        "TakımAdı": "İstanbul Başakşehir",
+        "KısaKodu": "İBF",
+        "MaçkolikId": "451"
+    },
+    {
+        "TakımAdı": "İstanbulspor",
+        "KısaKodu": "İST",
+        "MaçkolikId": "11"
+    },
+    {
+        "TakımAdı": "Kasımpaşa",
+        "KısaKodu": "KAS",
+        "MaçkolikId": "656"
+    },
+    {
+        "TakımAdı": "Kayserispor",
+        "KısaKodu": "KAY",
+        "MaçkolikId": "570"
+    },
+    {
+        "TakımAdı": "Konyaspor",
+        "KısaKodu": "KON",
+        "MaçkolikId": "447"
+    },
+    {
+        "TakımAdı": "Pendikspor",
+        "KısaKodu": "PEN",
+        "MaçkolikId": "659"
+    },
+    {
+        "TakımAdı": "Samsunspor",
+        "KısaKodu": "SAM",
+        "MaçkolikId": "8"
+    },
+    {
+        "TakımAdı": "Sivasspor",
+        "KısaKodu": "SİV",
+        "MaçkolikId": "446"
+    },
+    {
+        "TakımAdı": "Trabzonspor",
+        "KısaKodu": "TRA",
+        "MaçkolikId": "4"
     }
 ]
