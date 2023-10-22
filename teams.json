@@ -1,12 +1,12 @@
 [
     {
-        "Takım Adı": "Galatasaray (futbol takımı)|Galatasaray",
-        "Kısa Kodu": "GAL",
-        "Maçkolik Id": "1"
+        "TakımAdı": "Galatasaray (futbol takımı)|Galatasaray",
+        "KısaKodu": "GAL",
+        "MaçkolikId": "1"
     },
     {
-        "Takım Adı": "Fenerbahçe (futbol takımı)|Fenerbahçe",
-        "Kısa Kodu": "FNB",
-        "Maçkolik Id": "2"
+        "TakımAdı": "Fenerbahçe (futbol takımı)|Fenerbahçe",
+        "KısaKodu": "FNB",
+        "MaçkolikId": "2"
     }
 ]
