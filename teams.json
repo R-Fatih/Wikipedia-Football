@@ -98,5 +98,95 @@
         "TakımAdı": "Trabzonspor (futbol takımı)|Trabzonspor",
         "KısaKodu": "TRA",
         "MaçkolikId": "4"
+    },
+    {
+        "TakımAdı": " Eyüpspor ",
+        "KısaKodu": "EYÜ",
+        "MaçkolikId": "557"
+    },
+    {
+        "TakımAdı": " Bandırmaspor ",
+        "KısaKodu": "BAN",
+        "MaçkolikId": "633"
+    },
+    {
+        "TakımAdı": " Kocaelispor ",
+        "KısaKodu": "KOC",
+        "MaçkolikId": "18"
+    },
+    {
+        "TakımAdı": " Bodrum FK",
+        "KısaKodu": "BOD",
+        "MaçkolikId": "12201"
+    },
+    {
+        "TakımAdı": " Göztepe (futbol takımı)",
+        "KısaKodu": "GÖZ",
+        "MaçkolikId": "15"
+    },
+    {
+        "TakımAdı": " Gençlerbirliği (futbol takımı)",
+        "KısaKodu": "GEN",
+        "MaçkolikId": "7"
+    },
+    {
+        "TakımAdı": " Manisa FK",
+        "KısaKodu": "MFK",
+        "MaçkolikId": "14224"
+    },
+    {
+        "TakımAdı": " Çorum FK",
+        "KısaKodu": "ÇFK",
+        "MaçkolikId": "9665"
+    },
+    {
+        "TakımAdı": " Ankara Keçiörengücü SK",
+        "KısaKodu": "AKG",
+        "MaçkolikId": "1182"
+    },
+    {
+        "TakımAdı": " Erzurumspor FK",
+        "KısaKodu": "EFK",
+        "MaçkolikId": "9632"
+    },
+    {
+        "TakımAdı": " Adanaspor",
+        "KısaKodu": "ADA",
+        "MaçkolikId": "14"
+    },
+    {
+        "TakımAdı": " Sakaryaspor",
+        "KısaKodu": "SAK",
+        "MaçkolikId": "458"
+    },
+    {
+        "TakımAdı": " Şanlıurfaspor",
+        "KısaKodu": "ŞAN",
+        "MaçkolikId": "582"
+    },
+    {
+        "TakımAdı": " Tuzlaspor",
+        "KısaKodu": "TUZ",
+        "MaçkolikId": "15589"
+    },
+    {
+        "TakımAdı": " Boluspor",
+        "KısaKodu": "BOL",
+        "MaçkolikId": "621"
+    },
+    {
+        "TakımAdı": " Giresunspor ",
+        "KısaKodu": "GRS",
+        "MaçkolikId": "605"
+    },
+    {
+        "TakımAdı": " Ümraniyespor ",
+        "KısaKodu": "ÜMR",
+        "MaçkolikId": "9740"
+    },
+    {
+        "TakımAdı": " Altay SK",
+        "KısaKodu": "ALT",
+        "MaçkolikId": "5"
     }
 ]
