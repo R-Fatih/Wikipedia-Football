@@ -188,5 +188,195 @@
         "TakımAdı": "Altay SK|Altay",
         "KısaKodu": "ALT",
         "MaçkolikId": "5"
+    },
+    {
+        "TakımAdı": "1461 Trabzon FK|1461 Trabzon",
+        "KısaKodu": "61T",
+        "MaçkolikId": "14195"
+    },
+    {
+        "TakımAdı": "Adıyaman FK|Adıyaman",
+        "KısaKodu": "A54",
+        "MaçkolikId": "18807"
+    },
+    {
+        "TakımAdı": "Afjet Afyonspor",
+        "KısaKodu": "AFY",
+        "MaçkolikId": "19089"
+    },
+    {
+        "TakımAdı": "Altınordu FK|Altınordu",
+        "KısaKodu": "ATO",
+        "MaçkolikId": "1187"
+    },
+    {
+        "TakımAdı": "Ankara Demirspor",
+        "KısaKodu": "AND",
+        "MaçkolikId": "552"
+    },
+    {
+        "TakımAdı": "Ankaraspor",
+        "KısaKodu": "ANK",
+        "MaçkolikId": "444"
+    },
+    {
+        "TakımAdı": "Beyoğlu Yeni Çarşı SF|Beyoğlu Yeni Çarşı",
+        "KısaKodu": "BYÇ",
+        "MaçkolikId": "17254"
+    },
+    {
+        "TakımAdı": "Bucaspor 1928",
+        "KısaKodu": "B28",
+        "MaçkolikId": "15587"
+    },
+    {
+        "TakımAdı": "Bursaspor (futbol takımı)|Bursaspor",
+        "KısaKodu": "BUR",
+        "MaçkolikId": "13"
+    },
+    {
+        "TakımAdı": "Diyarbekirspor",
+        "KısaKodu": "DİY",
+        "MaçkolikId": "14191"
+    },
+    {
+        "TakımAdı": "Esenler Erokspor",
+        "KısaKodu": "ERO",
+        "MaçkolikId": "19220"
+    },
+    {
+        "TakımAdı": "Karacabey Belediyespor",
+        "KısaKodu": "KRC",
+        "MaçkolikId": "2613"
+    },
+    {
+        "TakımAdı": "Kırklarelispor",
+        "KısaKodu": "KRK",
+        "MaçkolikId": "658"
+    },
+    {
+        "TakımAdı": "Kırşehir Futbol SK|Kırşehir",
+        "KısaKodu": "KBL",
+        "MaçkolikId": "14803"
+    },
+    {
+        "TakımAdı": "Nazilli Belediyespor",
+        "KısaKodu": "NBS",
+        "MaçkolikId": "547"
+    },
+    {
+        "TakımAdı": "Serik Belediyespor",
+        "KısaKodu": "SER",
+        "MaçkolikId": "36325"
+    },
+    {
+        "TakımAdı": "Vanspor FK|Vanspor",
+        "KısaKodu": "VAN",
+        "MaçkolikId": "600"
+    },
+    {
+        "TakımAdı": "Yeni Mersin İdmanyurdu",
+        "KısaKodu": "YMİ",
+        "MaçkolikId": "42064"
+    },
+    {
+        "TakımAdı": "Zonguldak Kömürspor",
+        "KısaKodu": "ZKÖ",
+        "MaçkolikId": "14238"
+    },
+    {
+        "TakımAdı": "24 Erzincanspor",
+        "KısaKodu": "24E",
+        "MaçkolikId": "11936"
+    },
+    {
+        "TakımAdı": "68 Aksaray Belediyespor",
+        "KısaKodu": "68A",
+        "MaçkolikId": "14810"
+    },
+    {
+        "TakımAdı": "Amed SFK|Amed",
+        "KısaKodu": "AME",
+        "MaçkolikId": "591"
+    },
+    {
+        "TakımAdı": "Arnavutköy Belediyespor",
+        "KısaKodu": "ARN",
+        "MaçkolikId": "16976"
+    },
+    {
+        "TakımAdı": "Belediye Derincespor",
+        "KısaKodu": "BDE",
+        "MaçkolikId": "36224"
+    },
+    {
+        "TakımAdı": "Denizlispor",
+        "KısaKodu": "DEN",
+        "MaçkolikId": "10"
+    },
+    {
+        "TakımAdı": "Düzcespor",
+        "KısaKodu": "DÜZ",
+        "MaçkolikId": "622"
+    },
+    {
+        "TakımAdı": "Etimesgut Belediyespor",
+        "KısaKodu": "ETB",
+        "MaçkolikId": "15087"
+    },
+    {
+        "TakımAdı": "Fethiyespor",
+        "KısaKodu": "FET",
+        "MaçkolikId": "638"
+    },
+    {
+        "TakımAdı": "Iğdır FK|Iğdır",
+        "KısaKodu": "IĞD",
+        "MaçkolikId": "42056"
+    },
+    {
+        "TakımAdı": "Isparta 32 SK|Isparta 32",
+        "KısaKodu": "I32",
+        "MaçkolikId": "14216"
+    },
+    {
+        "TakımAdı": "İnegölspor",
+        "KısaKodu": "İNE",
+        "MaçkolikId": "540"
+    },
+    {
+        "TakımAdı": "İskenderunspor (1978)|İskenderunspor",
+        "KısaKodu": "İSK",
+        "MaçkolikId": "9677"
+    },
+    {
+        "TakımAdı": "Karaman FK|Karaman",
+        "KısaKodu": "KAR",
+        "MaçkolikId": "11960"
+    },
+    {
+        "TakımAdı": "Kastamonuspor 1966",
+        "KısaKodu": "KST",
+        "MaçkolikId": "19316"
+    },
+    {
+        "TakımAdı": "Menemen FK|Menemen",
+        "KısaKodu": "MEN",
+        "MaçkolikId": "7807"
+    },
+    {
+        "TakımAdı": "Sarıyer SK|Sarıyer",
+        "KısaKodu": "SAR",
+        "MaçkolikId": "563"
+    },
+    {
+        "TakımAdı": "Somaspor",
+        "KısaKodu": "SOM",
+        "MaçkolikId": "14817"
+    },
+    {
+        "TakımAdı": "Uşakspor (1984)|Uşakspor",
+        "KısaKodu": "UŞA",
+        "MaçkolikId": "9724"
     }
 ]
