@@ -454,5 +454,96 @@
         "KısaKodu": "ZKÖ",
         "MaçkolikId": "14238",
         "TFFId": "2434"
+    },
+    {
+        "TakımAdı": "FC Augsburg|Augsburg",
+        "KısaKodu": "AUG",
+        "MaçkolikId": "916"
+    },
+    {
+        "TakımAdı": "Bayer 04 Leverkusen|Bayer Leverkusen",
+        "KısaKodu": "LEV",
+        "MaçkolikId": "133"
+    },
+    {
+        "TakımAdı": "FC Bayern München|Bayern München",
+        "KısaKodu": "MUN",
+        "MaçkolikId": "119"
+    },
+    {
+        "TakımAdı": "VfL Bochum|Bochum",
+        "KısaKodu": "BOC",
+        "MaçkolikId": "127"
+    },
+    {
+        "TakımAdı": "Borussia Dortmund",
+        "KısaKodu": "DOR",
+        "MaçkolikId": "120"
+    },
+    {
+        "TakımAdı": "Borussia Mönchengladbach",
+        "KısaKodu": "MÖN",
+        "MaçkolikId": "126"
+    },
+    {
+        "TakımAdı": "SV Darmstadt 98|Darmstadt 98",
+        "KısaKodu": "DAR",
+        "MaçkolikId": "1474"
+    },
+    {
+        "TakımAdı": "Eintracht Frankfurt",
+        "KısaKodu": "FRA",
+        "MaçkolikId": "141"
+    },
+    {
+        "TakımAdı": "SC Freiburg|Freiburg",
+        "KısaKodu": "FRE",
+        "MaçkolikId": "137"
+    },
+    {
+        "TakımAdı": "RB Leipzig",
+        "KısaKodu": "LEI",
+        "MaçkolikId": "911"
+    },
+    {
+        "TakımAdı": "TSG 1899 Hoffenheim|Hoffenheim",
+        "KısaKodu": "HOF",
+        "MaçkolikId": "918"
+    },
+    {
+        "TakımAdı": "1. FC Heidenheim|Heidenheim",
+        "KısaKodu": "HEI",
+        "MaçkolikId": "7729"
+    },
+    {
+        "TakımAdı": "1. FC Köln|Köln",
+        "KısaKodu": "KÖL",
+        "MaçkolikId": "138"
+    },
+    {
+        "TakımAdı": "1. FSV Mainz 05|Mainz 05",
+        "KısaKodu": "MAI",
+        "MaçkolikId": "143"
+    },
+    {
+        "TakımAdı": "VfB Stuttgart|Stuttgart",
+        "KısaKodu": "STU",
+        "MaçkolikId": "129"
+    },
+    {
+        "TakımAdı": "1. FC Union Berlin|Union Berlin",
+        "KısaKodu": "UNB",
+        "MaçkolikId": "146"
+    },
+    {
+        "TakımAdı": "VfL Wolfsburg|Wolfsburg",
+        "KısaKodu": "WOL",
+        "MaçkolikId": "124"
+    },
+    {
+        "TakımAdı": "SV Werder Bremen|Werder Bremen",
+        "KısaKodu": "BRE",
+        "MaçkolikId": "121"
     }
+
 ]
