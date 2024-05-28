@@ -718,6 +718,18 @@
         "KısaKodu": "PAZ",
         "MaçkolikId": "609",
         "TFFId": "3662"
+    },
+    {
+        "TakımAdı": "Sivas Dört Eylülspor",
+        "KısaKodu": "SDE",
+        "MaçkolikId": "8976",
+        "TFFId": "5025"
+    },
+    {
+        "TakımAdı": "Karşıyaka (futbol takımı)",
+        "KısaKodu": "KSK",
+        "MaçkolikId": "541",
+        "TFFId": "3598"
     }
 
 
