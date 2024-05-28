@@ -31,7 +31,7 @@
     },
     {
         "TakımAdı": "Adıyaman FK|Adıyaman",
-        "KısaKodu": "A54",
+        "KısaKodu": "ADI",
         "MaçkolikId": "18807",
         "TFFId": "1871"
     },
@@ -325,7 +325,7 @@
     },
     {
         "TakımAdı": "Kırşehir Futbol SK|Kırşehir",
-        "KısaKodu": "KBL",
+        "KısaKodu": "KIR",
         "MaçkolikId": "14803",
         "TFFId": "4499"
     },
