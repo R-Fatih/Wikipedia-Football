@@ -560,8 +560,8 @@
     {
         "TakımAdı": "Sincan Belediyespor",
         "KısaKodu": "SBL",
-        "MaçkolikId": "3258",
-        "TFFId": "9696"
+        "MaçkolikId": "9696",
+        "TFFId": "3258"
     },
     {
         "TakımAdı": "Gölcükspor",
@@ -694,6 +694,12 @@
         "KısaKodu": "BİG",
         "MaçkolikId": "9734",
         "TFFId": "136"
+    },
+    {
+        "TakımAdı": "Eynesil Belediyespor",
+        "KısaKodu": "EYB",
+        "MaçkolikId": "39541",
+        "TFFId": "570"
     }
 
 
