@@ -544,6 +544,158 @@
         "TakımAdı": "SV Werder Bremen|Werder Bremen",
         "KısaKodu": "BRE",
         "MaçkolikId": "121"
+    },
+    [
+    {
+        "TakımAdı": "Şırnak Petrolspor",
+        "KısaKodu": "ŞPS",
+        "MaçkolikId": "53325",
+        "TFFId": "10585"
+    },
+    {
+        "TakımAdı": "Çorluspor 1947",
+        "KısaKodu": "Ç47",
+        "MaçkolikId": "34900",
+        "TFFId": "5044"
+    },
+    {
+        "TakımAdı": "Sincan Belediyespor",
+        "KısaKodu": "SBL",
+        "MaçkolikId": "3258",
+        "TFFId": "9696"
+    },
+    {
+        "TakımAdı": "Gölcükspor",
+        "KısaKodu": "GÖL",
+        "MaçkolikId": "654",
+        "TFFId": "3640"
+    },
+    {
+        "TakımAdı": "Erbaaspor",
+        "KısaKodu": "ERB",
+        "MaçkolikId": "9669",
+        "TFFId": "3641"
+    },
+    {
+        "TakımAdı": "Sebat Gençlikspor",
+        "KısaKodu": "SGE",
+        "MaçkolikId": "52850",
+        "TFFId": "10300"
+    },
+    {
+        "TakımAdı": "Küçükçekmece Sinopspor",
+        "KısaKodu": "KÇS",
+        "MaçkolikId": "39118",
+        "TFFId": "1092"
+    },
+    {
+        "TakımAdı": "Tokat Belediye Plevnespor",
+        "KısaKodu": "TOK",
+        "MaçkolikId": "54635",
+        "TFFId": "11881"
+    },
+    {
+        "TakımAdı": "Aliağa FK|Aliağa",
+        "KısaKodu": "ALİ",
+        "MaçkolikId": "14891",
+        "TFFId": "2720"
+    },
+    {
+        "TakımAdı": "Hacettepe 1945 SK|Hacettepe 1945",
+        "KısaKodu": "H45",
+        "MaçkolikId": "21377",
+        "TFFId": "3351"
+    },
+    {
+        "TakımAdı": "Mardin 1969 SK|Mardin 1969",
+        "KısaKodu": "M69",
+        "MaçkolikId": "39120",
+        "TFFId": "8758"
+    },
+    {
+        "TakımAdı": "Burdur MAKÜ",
+        "KısaKodu": "BMA",
+        "MaçkolikId": "39515",
+        "TFFId": "8658"
+    },
+    {
+        "TakımAdı": "Bursa Yıldırımspor",
+        "KısaKodu": "BYM",
+        "MaçkolikId": "41923",
+        "TFFId": "8550"
+    },
+    {
+        "TakımAdı": "Karabük İdmanyurdu Spor",
+        "KısaKodu": "KİY",
+        "MaçkolikId": "54599",
+        "TFFId": "10580"
+    },
+    {
+        "TakımAdı": "Talasgücü Belediyespor",
+        "KısaKodu": "TGB",
+        "MaçkolikId": "11950",
+        "TFFId": "4398"
+    },
+    {
+        "TakımAdı": "Doğubayazıt FSK|Doğubayazıt",
+        "KısaKodu": "DBF",
+        "MaçkolikId": "42846",
+        "TFFId": "9403"
+    },
+    {
+        "TakımAdı": "Silivrispor",
+        "KısaKodu": "SLV",
+        "MaçkolikId": "12980",
+        "TFFId": "44"
+    },
+    {
+        "TakımAdı": "Malatya Arguvan SK|Malatya Arguvan",
+        "KısaKodu": "MAR",
+        "MaçkolikId": "42878",
+        "TFFId": "8490"
+    },
+    {
+        "TakımAdı": "Büyükçekmece Tepecikspor",
+        "KısaKodu": "BTP",
+        "MaçkolikId": "6241",
+        "TFFId": "3696"
+    },
+    {
+        "TakımAdı": "Burhaniye Belediyespor",
+        "KısaKodu": "BUB",
+        "MaçkolikId": "35046",
+        "TFFId": "2880"
+    },
+    {
+        "TakımAdı": "Adana 1954 FK|Adana 1954",
+        "KısaKodu": "A54",
+        "MaçkolikId": "53336",
+        "TFFId": "9498"
+    },
+    {
+        "TakımAdı": "Silifke Belediyespor",
+        "KısaKodu": "SBL",
+        "MaçkolikId": "15146",
+        "TFFId": "3666"
+    },
+    {
+        "TakımAdı": "Bornova FK|Bornova",
+        "KısaKodu": "BFK",
+        "MaçkolikId": "53352",
+        "TFFId": "1515"
+    },
+    {
+        "TakımAdı": "23 Elazığ FK|23 Elazığ",
+        "KısaKodu": "23E",
+        "MaçkolikId": "37906",
+        "TFFId": "7196"
+    },
+    {
+        "TakımAdı": "Bigaspor",
+        "KısaKodu": "BİG",
+        "MaçkolikId": "9734",
+        "TFFId": "136"
     }
+]
 
 ]
