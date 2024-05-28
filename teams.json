@@ -545,7 +545,6 @@
         "KısaKodu": "BRE",
         "MaçkolikId": "121"
     },
-    [
     {
         "TakımAdı": "Şırnak Petrolspor",
         "KısaKodu": "ŞPS",
@@ -696,6 +695,6 @@
         "MaçkolikId": "9734",
         "TFFId": "136"
     }
-]
+
 
 ]
