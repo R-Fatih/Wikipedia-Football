@@ -904,7 +904,19 @@
         "KısaKodu": "TUR",
         "TFFId": "114",
         "MaçkolikId": "645"
+    },
+    {
+        "TakımAdı": "Burdur MAKÜ",
+        "KısaKodu": "BMK",
+        "TFFId": "8658",
+        "MaçkolikId": "39515"
     }
-
+,
+    {
+        "TakımAdı": "Burhaniye Belediyespor",
+        "KısaKodu": "BUB",
+        "TFFId": "2880",
+        "MaçkolikId": "35046"
+    }
 
 ]
