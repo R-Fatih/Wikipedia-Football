@@ -1,5 +1,17 @@
 [
     {
+        "TakımAdı": "Amed SFK|Amed",
+        "KısaKodu": "AME",
+        "MaçkolikId": "591",
+        "TFFId": "3678"
+    },
+     {
+        "TakımAdı": "Yeni Malatyaspor",
+        "KısaKodu": "YMS",
+        "MaçkolikId": "7297",
+        "TFFId": "4879"
+    },
+    {
         "TakımAdı": "1461 Trabzon FK|1461 Trabzon",
         "KısaKodu": "61T",
         "MaçkolikId": "14195",
