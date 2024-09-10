@@ -48,7 +48,7 @@
         "TFFId": "1871"
     },
     {
-        "TakımAdı": "Afjet Afyonspor",
+        "TakımAdı": "Afyonspor (2013)|Afyonspor",
         "KısaKodu": "AFY",
         "MaçkolikId": "19089",
         "TFFId": "3221"
@@ -318,7 +318,7 @@
         "TFFId": "39"
     },
     {
-        "TakımAdı": "Kastamonuspor 1966",
+        "TakımAdı": "Kastamonuspor 1966|Kastamonuspor",
         "KısaKodu": "KST",
         "MaçkolikId": "19316",
         "TFFId": "4342"
@@ -786,7 +786,7 @@
         "MaçkolikId": "541"
     },
     {
-        "TakımAdı": "Kepez Belediyespor (futbol takımı)|Kepez Belediyespor",
+        "TakımAdı": "Kepezspor (1995)|Kepezspor",
         "KısaKodu": "KEP",
         "TFFId": "1841",
         "MaçkolikId": "532"
