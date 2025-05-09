@@ -198,7 +198,7 @@
         "TFFId": "964"
     },
     {
-        "TakımAdı": "Etimesgut Belediyespor",
+        "TakımAdı": "Etimesgutspor",
         "KısaKodu": "ETB",
         "MaçkolikId": "15087",
         "TFFId": "4212"
@@ -462,8 +462,8 @@
         "TFFId": "4228"
     },
     {
-        "TakımAdı": "Zonguldak Kömürspor",
-        "KısaKodu": "ZKÖ",
+        "TakımAdı": "Zonguldakspor FK|Zonguldakspor",
+        "KısaKodu": "ZON",
         "MaçkolikId": "14238",
         "TFFId": "2434"
     },
@@ -600,8 +600,8 @@
         "MaçkolikId": "631"
     },
     {
-        "TakımAdı": "Alanya Kestelspor",
-        "KısaKodu": "AKE",
+        "TakımAdı": "Alanya 1221 FSK|Alanya 1221",
+        "KısaKodu": "ALA",
         "TFFId": "3808",
         "MaçkolikId": "38294"
     },
@@ -660,13 +660,13 @@
         "MaçkolikId": "543"
     },
     {
-        "TakımAdı": "Bergama FK|Bergama",
-        "KısaKodu": "BER",
+        "TakımAdı": "İzmir Çoruhlu FK|İzmir Çoruhlu",
+        "KısaKodu": "İÇO",
         "TFFId": "86",
         "MaçkolikId": "634"
     },
     {
-        "TakımAdı": "Bornova FK|Bornova",
+        "TakımAdı": "Bornova 1877 SY|Bornova 1877",
         "KısaKodu": "BOR",
         "TFFId": "1515",
         "MaçkolikId": "53352"
@@ -678,19 +678,13 @@
         "MaçkolikId": "39242"
     },
     {
-        "TakımAdı": "Bursa Yıldırımspor",
-        "KısaKodu": "BYI",
-        "TFFId": "8550",
-        "MaçkolikId": "41923"
-    },
-    {
         "TakımAdı": "Büyükçekmece Tepecikspor",
         "KısaKodu": "TPC",
         "TFFId": "3696",
         "MaçkolikId": "6241"
     },
     {
-        "TakımAdı": "Çankaya FK|Çankaya",
+        "TakımAdı": "Çankayaspor",
         "KısaKodu": "ÇAN",
         "TFFId": "2551",
         "MaçkolikId": "9693"
@@ -792,8 +786,8 @@
         "MaçkolikId": "532"
     },
     {
-        "TakımAdı": "Kırıkkalegücü FSK|Kırıkkalegücü",
-        "KısaKodu": "KKG",
+        "TakımAdı": "Kırıkkale FK|Kırıkkale",
+        "KısaKodu": "KIR",
         "TFFId": "186",
         "MaçkolikId": "14208"
     },
@@ -822,7 +816,7 @@
         "MaçkolikId": "39120"
     },
     {
-        "TakımAdı": "Muş 1984 Muşspor",
+        "TakımAdı": "Muşspor (2015)|Muşspor",
         "KısaKodu": "MUŞ",
         "TFFId": "8722",
         "MaçkolikId": "46137"
@@ -912,8 +906,8 @@
         "MaçkolikId": "54635"
     },
     {
-        "TakımAdı": "Turgutluspor",
-        "KısaKodu": "TUR",
+        "TakımAdı": "7 Eylül Turgutlu 1984 SY|7 Eylül Turgutlu 1984",
+        "KısaKodu": "7ET",
         "TFFId": "114",
         "MaçkolikId": "645"
     },
@@ -941,6 +935,108 @@
         "KısaKodu": "GCK",
         "TFFId": "3640",
         "MaçkolikId": "654"
+    },
+    {
+        "TakımAdı": "Kahramanmaraşspor",
+        "KısaKodu": "KAH",
+        "TFFId": "30",
+        "MaçkolikId": "1652"
+    },
+    {
+        "TakımAdı": "Muğlaspor",
+        "KısaKodu": "MUĞ",
+        "TFFId": "82",
+        "MaçkolikId": "546"
+    },
+    {
+        "TakımAdı": "Tire 2021 FK|Tire 2021",
+        "KısaKodu": "TİR",
+        "TFFId": "3095",
+        "MaçkolikId": "53351"
+    },
+    {
+        "TakımAdı": "Mazıdağı Fosfatspor",
+        "KısaKodu": "MAZ",
+        "TFFId": "10337",
+        "MaçkolikId": "52853"
+    },
+    {
+        "TakımAdı": "Çayelispor",
+        "KısaKodu": "ÇAY",
+        "TFFId": "263",
+        "MaçkolikId": "12973"
+    },
+    {
+        "TakımAdı": "Türk Metal 1963 SK|Türk Metal 1963",
+        "KısaKodu": "TME",
+        "TFFId": "2466",
+        "MaçkolikId": "58012"
+    },
+    {
+        "TakımAdı": "Beykoz İshaklı SF|Beykoz İshaklı",
+        "KısaKodu": "BİS",
+        "TFFId": "4485",
+        "MaçkolikId": "57987"
+    },
+    {
+        "TakımAdı": "İnegöl Kafkas Gençlikspor",
+        "KısaKodu": "İKG",
+        "TFFId": "3276",
+        "MaçkolikId": "36263"
+    },
+    {
+        "TakımAdı": "Çorluspor 1947",
+        "KısaKodu": "ÇOR",
+        "TFFId": "5044",
+        "MaçkolikId": "34900"
+    },
+    {
+        "TakımAdı": "Yozgat Belediyesi Bozokspor",
+        "KısaKodu": "YBB",
+        "TFFId": "7787",
+        "MaçkolikId": "15019"
+    },
+    {
+        "TakımAdı": "1923 Mustafakemalpaşa SK|1923 Mustafakemalpaşa",
+        "KısaKodu": "23M",
+        "TFFId": "8550",
+        "MaçkolikId": "41923"
+    },
+    {
+        "TakımAdı": "Viranşehir Belediyespor",
+        "KısaKodu": "VİB",
+        "TFFId": "4515",
+        "MaçkolikId": "52855"
+    },
+    {
+        "TakımAdı": "Kahramanmaraş İstiklalspor",
+        "KısaKodu": "KİS",
+        "TFFId": "9908",
+        "MaçkolikId": "54633"
+    },
+    {
+        "TakımAdı": "Bursa Nilüfer FK|Bursa Nilüfer",
+        "KısaKodu": "BNİ",
+        "TFFId": "8486",
+        "MaçkolikId": "54655"
+    },
+    {
+        "TakımAdı": "Erciyes 38 FSK|Erciyes 38",
+        "KısaKodu": "ERC",
+        "TFFId": "4398",
+        "MaçkolikId": "11950"
+    },
+    {
+        "TakımAdı": "Polatlı 1926 SK|Polatlı 1926",
+        "KısaKodu": "POL",
+        "TFFId": "1198",
+        "MaçkolikId": "42861"
+    },
+    {
+        "TakımAdı": "Niğde Belediyesispor",
+        "KısaKodu": "NBS",
+        "TFFId": "9399",
+        "MaçkolikId": "53335"
     }
 
 ]
