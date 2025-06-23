@@ -1103,6 +1103,48 @@
         "KısaKodu": "BOV",
         "TFFId": "3783",
         "MaçkolikId": "14236"
+    },
+    {
+        "TakımAdı": "Serhat Ardahanspor",
+        "KısaKodu": "SEA",
+        "TFFId": "7857",
+        "MaçkolikId": "21490"
+    },
+    {
+        "TakımAdı": "Kurtalanspor",
+        "KısaKodu": "KUS",
+        "TFFId": "6437",
+        "MaçkolikId": "11934"
+    },
+    {
+        "TakımAdı": "Hakkari Zapspor",
+        "KısaKodu": "HZP",
+        "TFFId": "337",
+        "MaçkolikId": "14194"
+    },
+    {
+        "TakımAdı": "Kars 36 Spor",
+        "KısaKodu": "K36",
+        "TFFId": "9321",
+        "MaçkolikId": "42058"
+    },
+    {
+        "TakımAdı": "Yeni Çanspor",
+        "KısaKodu": "YÇS",
+        "TFFId": "3980",
+        "MaçkolikId": "16836"
+    },
+    {
+        "TakımAdı": "Bartınspor",
+        "KısaKodu": "BTS",
+        "TFFId": "95",
+        "MaçkolikId": "9703"
+    },
+    {
+        "TakımAdı": "12 Bingölspor",
+        "KısaKodu": "12B",
+        "TFFId": "7632",
+        "MaçkolikId": "17386"
     }
 
 ]
