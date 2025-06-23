@@ -1049,6 +1049,60 @@
         "KısaKodu": "GAZ",
         "TFFId": "116",
         "MaçkolikId": "6"
+    },
+    {
+        "TakımAdı": "Yeşil Yalova FK|Yeşil Yalova",
+        "KısaKodu": "YYF",
+        "TFFId": "3087",
+        "MaçkolikId": "58018"
+    },
+    {
+        "TakımAdı": "Kilis Belediyespor",
+        "KısaKodu": "KLB",
+        "TFFId": "124",
+        "MaçkolikId": "594"
+    },
+    {
+        "TakımAdı": "Bitlis Özgüzelderespor",
+        "KısaKodu": "BÖG",
+        "TFFId": "3840",
+        "MaçkolikId": "589"
+    },
+    {
+        "TakımAdı": "Sinopspor",
+        "KısaKodu": "SİN",
+        "TFFId": "5011",
+        "MaçkolikId": "611"
+    },
+    {
+        "TakımAdı": "Çankırı FK|Çankırı",
+        "KısaKodu": "ÇNK",
+        "TFFId": "8261",
+        "MaçkolikId": "39521"
+    },
+    {
+        "TakımAdı": "Sensored",
+        "KısaKodu": "XXX",
+        "TFFId": "6796",
+        "MaçkolikId": "9639"
+    },
+    {
+        "TakımAdı": "Şırnak Petrolspor",
+        "KısaKodu": "ŞPS",
+        "TFFId": "10585",
+        "MaçkolikId": "53325"
+    },
+    {
+        "TakımAdı": "Bucak Belediyesi Oğuzhanspor",
+        "KısaKodu": "BBO",
+        "TFFId": "3853",
+        "MaçkolikId": "9714"
+    },
+    {
+        "TakımAdı": "Bozüyük Vitraspor",
+        "KısaKodu": "BOV",
+        "TFFId": "3783",
+        "MaçkolikId": "14236"
     }
 
 ]
