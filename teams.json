@@ -1145,6 +1145,60 @@
         "KısaKodu": "12B",
         "TFFId": "7632",
         "MaçkolikId": "17386"
+    },
+    {
+        "TakımAdı": "Galata SK|Galata",
+        "KısaKodu": "GSK",
+        "TFFId": "42",
+        "MaçkolikId": "60258"
+    },
+    {
+        "TakımAdı": "Fethiye İdman Yurdu SK|Fethiye İdman Yurdu",
+        "KısaKodu": "FİY",
+        "TFFId": "594",
+        "MaçkolikId": "60270"
+    },
+    {
+        "TakımAdı": "İnkılap FSK|İnkılap",
+        "KısaKodu": "İNK",
+        "TFFId": "1465",
+        "MaçkolikId": "53343"
+    },
+    {
+        "TakımAdı": "Suvermez Kapadokyaspor",
+        "KısaKodu": "SKA",
+        "TFFId": "3463",
+        "MaçkolikId": "14806"
+    },
+    {
+        "TakımAdı": "Malatya Yeşilyurtspor",
+        "KısaKodu": "MYS",
+        "TFFId": "4844",
+        "MaçkolikId": "9675"
+    },
+    {
+        "TakımAdı": "1926 Bulancakspor",
+        "KısaKodu": "26B",
+        "TFFId": "4193",
+        "MaçkolikId": "9654"
+    },
+    {
+        "TakımAdı": "Karadeniz Ereğli Belediyespor",
+        "KısaKodu": "KEB",
+        "TFFId": "3690",
+        "MaçkolikId": "14257"
+    },
+    {
+        "TakımAdı": "Denizli İdman Yurdu SK|Denizli İdman Yurdu",
+        "KısaKodu": "DİY",
+        "TFFId": "384",
+        "MaçkolikId": "60268"
+    },
+    {
+        "TakımAdı": "Eskişehirspor",
+        "KısaKodu": "ESK",
+        "TFFId": "3",
+        "MaçkolikId": "536"
     }
 
 ]
